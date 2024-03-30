@@ -1,0 +1,7 @@
+C:\Users\Ramanjaneyareddy\source\repos\CrudOprations\CrudOprations\bin\Debug\CrudOprations.exe.config
+C:\Users\Ramanjaneyareddy\source\repos\CrudOprations\CrudOprations\bin\Debug\CrudOprations.exe
+C:\Users\Ramanjaneyareddy\source\repos\CrudOprations\CrudOprations\bin\Debug\CrudOprations.pdb
+C:\Users\Ramanjaneyareddy\source\repos\CrudOprations\CrudOprations\obj\Debug\CrudOprations.csproj.AssemblyReference.cache
+C:\Users\Ramanjaneyareddy\source\repos\CrudOprations\CrudOprations\obj\Debug\CrudOprations.csproj.CoreCompileInputs.cache
+C:\Users\Ramanjaneyareddy\source\repos\CrudOprations\CrudOprations\obj\Debug\CrudOprations.exe
+C:\Users\Ramanjaneyareddy\source\repos\CrudOprations\CrudOprations\obj\Debug\CrudOprations.pdb
